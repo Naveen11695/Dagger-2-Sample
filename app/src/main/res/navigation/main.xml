@@ -7,14 +7,14 @@
 
     <fragment
         android:id="@+id/profileScreen"
-        android:name="com.ttn.dagger2.ui.main.profile.ProfileFragment"
+        android:name="com.local.dagger2.ui.main.profile.ProfileFragment"
         android:label="ProfileScreen"
         tools:layout="@layout/fragment_profile" />
 
 
     <fragment
         android:id="@+id/postScreen"
-        android:name="com.ttn.dagger2.ui.main.posts.PostsFragment"
+        android:name="com.local.dagger2.ui.main.posts.PostsFragment"
         android:label="PostsScreen"
         tools:layout="@layout/fragment_posts" />
 
